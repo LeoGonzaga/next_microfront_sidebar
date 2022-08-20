@@ -4,7 +4,7 @@ const Container = styled.div`
   width: 70px;
   height: 100%;
   position: fixed;
-  background-color: blue;
+  background-color: black;
 `;
 
 
